@@ -1,1 +1,1 @@
-# This repo contains dockerfiles from various debugging tools
+# This repo contains dockerfiles for various debugging tools
